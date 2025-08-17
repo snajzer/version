@@ -1,5 +1,5 @@
 {
   "version": "v2.0.0B",
   "download_url": "https://wip.com/nyxcore.exe",
-  "pattern": "48 89 5C 24 ? 48 89 74 24 ? 57 48 83 EC 20 41 8B F8 8B F2"
+  "pattern": ""
 }
